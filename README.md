@@ -5,7 +5,7 @@
 <p align="center">
 I'm Janak Rathod
 </p><hr/>
-<p>full stack web developer.</p>
+<p align="center">Full stack Web developer.</p>
 
 <br/>
 <h3 align="center">
