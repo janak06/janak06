@@ -13,5 +13,7 @@ My Tech Stacks
 </h3>
 
 <h3 align="center">
-<img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png" alt="stacks"/>
+  <a href="https://github.com/janak06" style="pointer-events: none;  cursor: default;">
+  <img alt="npm" src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png">
+</a>
 </h3>
