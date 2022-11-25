@@ -1,11 +1,10 @@
 
 
-<h3 align="center"> Hi there 👋</h3>
+<h2 align="center">
+Hi, I'm Janak Rathod!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h2>
 
-<p align="center">
-I'm Janak Rathod
-</p>
-<p align="center">Full stack Web developer.</p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4DCD3D&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Computer+Science+Student;Always+learning+new+things" alt="Typing SVG" /></a></p>
 <hr/>
 
 <p align="center">
